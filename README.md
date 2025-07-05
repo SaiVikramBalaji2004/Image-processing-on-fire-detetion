@@ -52,6 +52,8 @@ This guide covers **two methods** to program the ESP32-CAM:
 | GPIO0       | GND (for flashing) |
 
 - Disconnect GPIO0 after uploading to run the code normally.
+- circuit diagram
+  ![image alt](https://github.com/SaiVikramBalaji2004/Image-processing-on-fire-detetion/blob/b1e9149b1eee7b5795b7c34898d234945ee787ca/image.png)
 
 ### Step 3: Upload Sample Code
 
