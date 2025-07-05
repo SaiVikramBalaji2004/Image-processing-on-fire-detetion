@@ -70,4 +70,4 @@ Serial.println("Hello, ESP32-CAM!");
 
 Let me know if you'd like it turned into a GitHub repo template with sample `platformio.ini`, images, or wiring diagrams.
 
-
+![image alt](https://github.com/SaiVikramBalaji2004/Image-processing-on-fire-detetion/blob/9e23f8b3fc52b95172fbbe8d7005ca0a9ca4c754/ESP32-CAM%20real.jpg)
